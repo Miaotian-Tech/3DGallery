@@ -5,14 +5,13 @@
 
 # Outdoor
 
+
+
+# Indoor
+
 ## Tanks and Temples
 
 ### Meetingroom
 
+https://github.com/rockuniverse-tech/3DGallery/assets/17737537/393c87d5-3e1d-4b0e-9bd5-27c430ca856e
 
-
-https://github.com/rockuniverse-tech/3DGallery/assets/17737537/7dd0c3d7-de03-4ccc-ba43-7cab87fd0eb9
-
-
-
-# Indoor
