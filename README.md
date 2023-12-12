@@ -5,6 +5,13 @@
 
 # Outdoor
 
+## Tanks and Temples
+
+### Barn
+
+https://github.com/rockuniverse-tech/3DGallery/assets/17737537/f6c12216-6a55-4105-81cb-724faa582cad
+
+
 
 
 # Indoor
