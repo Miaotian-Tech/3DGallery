@@ -9,7 +9,10 @@
 
 ### Barn
 
-https://github.com/rockuniverse-tech/3DGallery/assets/17737537/503bf971-7fa7-4bfc-8fa2-d097df0681e2
+
+
+https://github.com/rockuniverse-tech/3DGallery/assets/17737537/ffc92931-5038-46ea-be13-08ce5634af25
+
 
 
 
